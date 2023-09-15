@@ -1,1 +1,1 @@
-![](pcat/pcat.mp4)
+![](pcat/pcatProje.gif)

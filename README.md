@@ -3,7 +3,7 @@
 * Nodemon
 * Statik Dosyalar
 * Template Engine
-* Middleware Kavramı Giriş
+* Middleware 
 * Express
 * MongoDB
 * Mongoose
